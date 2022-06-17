@@ -9,5 +9,4 @@ public class SayuriApplication {
     public static void main(String[] args) {
         SpringApplication.run(SayuriApplication.class, args);
     }
-
 }
